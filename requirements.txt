@@ -1,0 +1,6 @@
+napalm
+netaddr
+requests
+textfsm>=1.1.0
+urllib3
+setuptools
